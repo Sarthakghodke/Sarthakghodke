@@ -1,37 +1,57 @@
-- 👋 Hi, I’m @Sarthakghodke      
-      🎓 I'm a final-year B.Tech. student specializing in **Artificial Intelligence & Data Science** at Dr. D. Y. Patil College of Engineering and Innovation.  
-      💡 Passionate about blending tech with purpose, especially in the healthcare domain using AI & ML.
+## 👋 Hi, I’m Sarthak Ghodke
 
-- 👀 I’m interested in ...
-      -🤖 AI/ML applications in real-world problem-solving
-      - 📊 Data visualization & analytics using Power BI
-      - 🌐 Full-stack web development
-      - 💬 NLP & chatbot systems for healthcare
+🎓 **B.E Graduate in Artificial Intelligence & Data Science**  
+📍 Dr. D. Y. Patil College of Engineering and Innovation, Maharashtra, India  
 
+I am a passionate **Data Analytics & AI professional** with hands-on experience in
+analyzing real-world datasets and building data-driven solutions using  
+**Python, SQL, and Power BI**. I enjoy transforming raw data into meaningful insights
+that support decision-making and real-world impact.
 
+---
 
+## 👀 Areas of Interest
+- 📊 Data Analytics & Data Visualization (Power BI, Python)
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Exploratory Data Analysis (EDA) & Insight Generation
+- 🌐 Full-Stack Development 
+- 💬 NLP & AI-based chatbot systems (Healthcare-focused)
 
-- 🌱 I’m currently learning ...
-      -🧠 Advanced machine learning techniques
-      - 🛠️ Building AI-powered dashboards with Power BI
-      - 🔍 Enhancing SQL & Python for data analysis
-      - 🧩 Mastering DSA for problem-solving
-- 
-- 💞️ I’m looking to collaborate on ...
-      - 🚀 AI-driven healthcare tools
-      - 🌍 Open-source data science projects
-      - 📈 Analytical dashboards and visualizations
-      - 🌐 Web apps with meaningful social impact
+---
 
-- 📫 How to reach me ...
-      - ✉️ sarthakghodke0606@gmail.com  
-      - 📞 +91 8767645618  
-      - 🏠 Rahuri, Maharashtra, India  
-      - 🔗 [GitHub Project: AI Symptom Checker](https://github.com/Sarthakghodke/final-project)
+## 🌱 Currently Upskilling In
+- Advanced Machine Learning techniques
+- End-to-end data analytics workflows
+- Building interactive dashboards with Power BI
+- Strengthening SQL & Python for large-scale data analysis
+- Improving DSA for technical and analytical interviews
 
-  
+---
 
-<!---
-Sarthakghodke/Sarthakghodke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💼 Featured Projects
+- 📊 **Global Terrorism Data Analysis (1970–2021)**  
+  End-to-end data analytics project involving data cleaning, EDA, and Power BI
+  dashboard creation on a large real-world dataset  
+  🔗 https://github.com/Sarthakghodke/Global-Terrorism-Data-Analysis
+
+- 🤖 **AI-Driven Symptom Analysis & Disease Prediction Assistant**  
+  Healthcare-focused AI project using Machine Learning, NLP, and chatbot integration
+  to assist in early symptom-based disease prediction  
+  🔗 https://github.com/Sarthakghodke/final-project
+
+---
+
+## 🤝 Open to Collaboration On
+- Data Analytics & Data Science projects
+- Real-world problem-solving using data
+- Open-source Python / analytics projects
+- Dashboard design & data storytelling initiatives
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: **sarthakghodke0606@gmail.com**
+- 📞 Phone: **+91 8767645618**
+- 📍 Location: Rahuri, Maharashtra, India
+- 💼 LinkedIn: **https://www.linkedin.com/in/sarthak-ghodke/**
+- 🔗 GitHub: **https://github.com/Sarthakghodke**
